@@ -1,0 +1,33 @@
+#1.Arithemetic Operator
+1.เรามีเงิน 100 บาท
+2.แม่ให้เพิ่มมา 50 บาท
+วันนี้เรามีเงินเท่าไหร่?
+Solution : 150 = 100 + 50
+    a = 100
+    b = 50
+    total = a + b
+    total = 100 + 50
+    total = 150
+=================================================
+#2.Assignment Operator
+การดำเนินการทางคณิตศาสตร์ (Expression)
+ #2.2.Assignment Operator ตัวดำเนินการทางคณิตศาสตร์ as : + , - , * , / , %
+ตัวถูกดำเนินการทางคณิตศาสตร์ (Operant) as : a , b , c
+Expression = Operator , Operant
+Expression = a + b, +=a, -=a, *=a, /=a, %=a
+==================================================
+
+#3.Comparison Operator
+การดำเนินการทางคณิตศาสตร์ (Expression)
+ #2.2.Assignment Operator ตัวดำเนินการทางคณิตศาสตร์ as : ==, !=, ===, !==, >, <, >=, <=,
+ตัวถูกดำเนินการทางคณิตศาสตร์ (Operant) as : a , b , c
+on = Operator , Operant
+on = a == b, a!=b, a===b, a!==b, a<b, a<b, a<=b, a>=b
+==================================================
+
+#4.logic Operator
+การดำเนินการทางคณิตศาสตร์ (Expression)
+ #2.2.Assignment Operator ตัวดำเนินการทางคณิตศาสตร์ as : &&, ||, |
+ตัวถูกดำเนินการทางคณิตศาสตร์ (Operant) as : a , b , c
+on = Operator , Operant
+on = a == b, a!=b, a&&b, a||b, a|b
